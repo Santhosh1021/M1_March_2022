@@ -70,3 +70,6 @@ This project works on C programming language.
 | 1 |Function prototype as add,delete,view and modify| IMPLEMENTED |
 | 2 | Data are stored as "record.txt" in the system folder | IMPLEMENTED |
 | 3 | Structure has the data type of  Employee id, Employee name, Employee age, Employee salary | IMPLEMENTED |
+
+# Block Diagram
+![image](https://user-images.githubusercontent.com/101259618/160379049-c7d52490-9ede-4a1d-bb19-5f8973ea80c5.png)
