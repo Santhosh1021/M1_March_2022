@@ -2,16 +2,16 @@
 # Requirements
 ## Introduction
 
-The Project Employee Management System is used for storing the records of Employees. In this project we can manage Employee records – add,view,search and delete records.This project will be useful for organisations for adding and modifying the records of Employee.
+The Project Employee Management System is used for storing the records of Employees. In this project we can manage Employee records – add,view,modify and delete records.This project will be useful for organisations for adding and modifying the records of Employee.
 
 
 ## Research
 
-The Employee Management System was created in a simple console application where the system can be accessed with providing  login information. In the system, we can add new Employee, view all Employees, search Employee and delete Employee record. The system contains function that can manage the Employee information being stored in the system. The follow operations can be done in this system,
+The Employee Management System was created in a simple console application where the system can be accessed with providing  login information. In the system, we can add new Employee, view all Employees, modify Employee and delete Employee record. The system contains function that can manage the Employee information being stored in the system. The follow operations can be done in this system,
 
 - Add Employee 
 - View all Employees
-- Search Employee 
+- Modify Employee 
 - Delete Employee record
 
 We can update the Employee information by following the above operations. The entered data are stored as a text extension file in the system folder.
@@ -27,7 +27,7 @@ with information such as Employee id, Employee name, Employee age, Employee sala
 deletes Employee records from file.
 3.View Employee details: 
 lists all the Employee details stored in file with their respective Employee details.
-4.Search Employee: 
+4.Modify Employee: 
 based on Employee name.
 
 Timeline: 50 years before = documents,
@@ -36,7 +36,7 @@ Timeline: 50 years before = documents,
 
 ## Defining our system
 
-Employee Management System is a very simple project that can help you understand the basic concepts of functions, file handling, and structures. This program will teach you how to add,view,search and remove data from/to a file. Adding new records, viewing them, editing and looking for saved Employee details, and removing Employee records are simple functions that make up the main menu of this system. Personal information information such as Employee id , Employee name, Employee salary and Employee age is requested when you add a record to your file. These records can then be entered, searched, and deleted. I’ve used a lot of functions, and these functions are easy to understand since their name means just their respective operations. Therefore the main purpose of the Employee management system is to record and organize the Employee details within the software.
+Employee Management System is a very simple project that can help you understand the basic concepts of functions, file handling, and structures. This program will teach you how to add,view,modify and remove data from/to a file. Adding new records, viewing them, editing and looking for saved Employee details, and removing Employee records are simple functions that make up the main menu of this system. Personal information information such as Employee id , Employee name, Employee salary and Employee age is requested when you add a record to your file. These records can then be entered, modifyed, and deleted. I’ve used a lot of functions, and these functions are easy to understand since their name means just their respective operations. Therefore the main purpose of the Employee management system is to record and organize the Employee details within the software.
 
 ## SWOT Analysis
 
@@ -68,6 +68,6 @@ This project works on C programming language.
 # Low Level Requirements:
 | ID | DESCRIPTION | Status |
 | ------ | ------ | ------ |
-| 1 |Function prototype as add,delete,view and search| IMPLEMENTED |
+| 1 |Function prototype as add,delete,view and modify| IMPLEMENTED |
 | 2 | Data are stored as "record.txt" in the system folder | IMPLEMENTED |
 | 3 | Structure has the data type of  Employee id, Employee name, Employee age, Employee salary | IMPLEMENTED |
