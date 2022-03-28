@@ -176,5 +176,6 @@ printf("\nWant to modify another"" record (Y/N) :");
 fflush(stdin);
 scanf("%c", &another);
   }
+
 }
 
