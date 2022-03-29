@@ -91,7 +91,7 @@ fseek(fp, 0, SEEK_END);
 char another = 'y';
 while (another == 'y') {
 printf("\nEnter Name : ");
-scanf("%s", e.name);
+scanf("%s", &e.name);
 printf("\nEnter Age : ");
 scanf("%d", &e.age);
 printf("\nEnter Salary : ");
@@ -112,7 +112,7 @@ char empname[50];
 char another = 'y';
 while (another == 'y') {
 printf("\nEnter employee ""name to delete : ");
-scanf("%s", empname);
+scanf("%s", &empname);
 ft = fopen("temp.txt", "wb");
 rewind(fp);
 while (fread(&e, size,1, fp)== 1)
@@ -154,13 +154,13 @@ void modifyrecord()
   
     while (another == 'y') {
     printf("\nEnter employee name"" to modify : ");
-    scanf("%s", empname);
+    scanf("%s", &empname);
   rewind(fp);
 while (fread(&e, size, 1, fp) == 1) 
 {
 if (strcmp(e.name, empname) == 0) {
  printf("\nEnter new name:");
-scanf("%s", e.name);
+scanf("%s", &e.name);
  printf("\nEnter new age :");
 scanf("%d", &e.age);
  printf("\nEnter new salary :");
@@ -176,6 +176,6 @@ printf("\nWant to modify another"" record (Y/N) :");
 fflush(stdin);
 scanf("%c", &another);
   }
-
 }
+
 
