@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = Build
 EXT = .c
-SRCDIR = /mnt/c/Users/User/Users/Hp/M1_March_2022/3_Implementation/Version1
+SRCDIR = /mnt/c/Users/Hp/M1_March_2022/3_Implementation/Version1
 
 OBJDIR = obj
 
