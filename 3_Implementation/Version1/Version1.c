@@ -15,7 +15,6 @@ struct Employer_details {
     int Age;
     int id;
 }e;
-//struct Employer_details e;
 COORD cord = { 0, 0 };
   
 long int size = sizeof(e);
