@@ -10,6 +10,9 @@
 ![image](https://user-images.githubusercontent.com/101259618/161377202-19d89bab-d364-4595-b09f-77b32e786deb.png)
 # 5. Exit from the file
 ![image](https://user-images.githubusercontent.com/101259618/161377183-59866cb7-f52e-4e2a-bded-ca049009b5a3.png)
+# 6. Execution Video
+https://user-images.githubusercontent.com/101259618/161436001-72d2dbec-7d80-4f50-8b60-89742eb23222.mp4
+
 
 
 
