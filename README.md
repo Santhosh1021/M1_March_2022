@@ -24,4 +24,3 @@ The Employee Management System is an application, that enables the management do
 * Codiga - Static Analysis ![Quality](https://api.codiga.io/project/32164/status/svg)
 * Analysis-[![Analysis](https://github.com/Santhosh1021/M1_March_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Santhosh1021/M1_March_2022/actions/workflows/Analysis.yml)
 
-
