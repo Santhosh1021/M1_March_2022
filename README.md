@@ -20,7 +20,7 @@ The Employee Management System is an application, that enables the management do
 | 4 | Delete employee |
 
 # Badges
-* Codacy - Static Code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c02e0d5e8dd9423389ac3b7621d0ca55)](https://www.codacy.com/gh/Santhosh1021/M1_March_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Santhosh1021/M1_March_2022&amp;utm_campaign=Badge_Grade)
+* Codacy - Static Code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/54adb5a2f40b4ef999f0bc730c92569d)](https://www.codacy.com/gh/Santhosh1021/M1_March_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Santhosh1021/M1_March_2022&amp;utm_campaign=Badge_Grade)
 * Codiga - Static Analysis ![Quality](https://api.codiga.io/project/32164/status/svg)
 * Analysis-[![Analysis](https://github.com/Santhosh1021/M1_March_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Santhosh1021/M1_March_2022/actions/workflows/Analysis.yml)
 
